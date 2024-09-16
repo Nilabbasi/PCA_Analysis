@@ -23,16 +23,12 @@ The code is thoroughly commented with single-line and multi-line explanations to
 
 The following libraries are required for this analysis. Ensure they are installed in your environment:
 
-```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
-from sklearn.decomposition import PCA
-from prettytable import PrettyTable
-from keras.datasets import mnist
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- prettytable
+- keras
 
 ## 2. Loading and Preprocessing the MNIST Dataset
 
@@ -73,7 +69,7 @@ The results include accuracy metrics based on varying the number of principal co
 
 Below is a plot illustrating the relationship between the number of principal components and the model's accuracy:
 
-![Accuracy vs. Number of Components](path/to/your/image.png)
+![Accuracy vs. Number of Components](images/your_image_filename.png)
 
 ---
 
