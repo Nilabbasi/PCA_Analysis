@@ -69,7 +69,7 @@ The results include accuracy metrics based on varying the number of principal co
 
 Below is a plot illustrating the relationship between the number of principal components and the model's accuracy:
 
-![Accuracy vs. Number of Components](images/your_image_filename.png)
+![Accuracy vs. Number of Components](images/Accuracy_Components.png)
 
 ---
 
